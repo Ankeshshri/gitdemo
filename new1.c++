@@ -16,6 +16,7 @@ int main()
     }
     *p=100;
     cout<<"value of p at address"<<p<<" is:"<<*p<<"\n";
+    cout<<"\n i think they call this love"
 
     delete p;
 
